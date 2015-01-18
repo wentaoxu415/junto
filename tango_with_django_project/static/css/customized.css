@@ -1,0 +1,50 @@
+#wrapper{
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+}
+
+#brand{
+	margin-left: 5%;
+}
+
+#landing{
+	position: relative;
+	background-image:url('../img/landing.jpg');
+	background-repeat:no-repeat;
+	background-size: cover;
+	min-height: 100%;
+	font-size: 48px;
+	color: white;
+}
+
+#hook{
+	text-align: center;
+	font-size: 72px;
+	font-weight: bold;
+	color: white;
+	margin-top: 5%;
+}
+
+#signsheet{
+	width: 40%;
+	height: 20%;
+	min-height: 100px; 
+	min-width: 200px;
+	background-size: cover;
+	background-color: rgba(200, 255, 200, 0.7);
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10%;
+	text-align: center;
+}
+
+
+#description{
+	color: gray;
+	font-size:24px;
+}
+
+#buttons{
+	margin: auto;
+}
